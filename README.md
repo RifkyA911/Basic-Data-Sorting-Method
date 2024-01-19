@@ -1,5 +1,5 @@
 # Basic-Data-Sorting-Method
-This is old sample of my college project assignment used C++. This repository contains a simple implementation of a Student Database Management System in C. The program allows users to perform CRUD operations (Create, Read, Update, Delete) on student data. The system includes features such as sorting, searching, and user authentication.
+This is old sample of my college project assignment used C. This repository contains a simple implementation of a Student Database Management System in C. The program allows users to perform CRUD operations (Create, Read, Update, Delete) on student data. The system includes features such as sorting, searching, and user authentication.
 
 
 ## Features
